@@ -1,7 +1,7 @@
 
 // program to convert decimal to binary.
 
-// adesh
+// adesh sengar;
 #include<bits/stdc++.h>
 
 using namespace std;
